@@ -138,7 +138,7 @@
         <script id="banner_template" type="x-tmpl-mustache/text">
             <li class="item">
                 <a href="{{url}}" {{css}} onclick="{{noLink}}">
-                    <img src="//mallmaverick.com{{image_url}}"/>
+                    <img src="//mallmaverickdevelopment.com{{image_url}}"/>
                 </a>
             </li>
         </script>
